@@ -337,14 +337,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Repository**: [DMRC_Chatbot](https://github.com/Shar-mayank0/DMRC_Chatbot)
-**Project Author**: 
-1.Mayank Sharma 
-2.Devang Jain
-3.Samarth Arora
-4.Hirday Singh
-5.Sarthak Pandey
-6.Adya Jain        
-
+**Project Authors**: 
+1. Mayank Sharma 
+2. Devang Jain
+3. Samarth Arora
+4. Hirday Singh
+5. Sarthak Pandey
+6. Adya Jain   
+7. Bhavya Sinha
+8. Aditi Pandit
 
 
 ---
